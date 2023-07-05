@@ -2,6 +2,6 @@
 
 # Tested Gif Generator app following the course "React: De cero a experto ( Hooks y MERN )"
 
-Throughout the app we have covered communication between components, conditional rendering, helper functions, barrel files imports, useEffect hook, fecth Api, make the app generate Gifs based on user input.
+Throughout the app we have covered communication between components, conditional rendering, helper functions, barrel files imports, useEffect hook, custom hooks, fecth Api as well as instruct the app to generate Gifs based on user inputs.
 
 Subsequently the app is tested using React Testing Library along with Jest.
