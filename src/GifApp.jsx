@@ -4,7 +4,7 @@ import { AddCategory, GifGrid } from "./components";
 
 export const GifApp = () => {
 
-  const [ categories, setCategories ] = useState([ 'onePunch' ]);
+  const [ categories, setCategories ] = useState([ 'tree' ]);
 
   const onAddCategory = (newCategory) => {
     // No case sensitive
